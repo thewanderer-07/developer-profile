@@ -76,6 +76,8 @@ hr {
 .profile{
 	color: #40514E;
 	line-height:2;
+	white-space: pre-line;
+
 }
 .footer-link{
 	color: #11999E;
